@@ -1,0 +1,39 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/postinfective-and-reactive-arthropathies---primary.py
+inputModule3:
+  class: File
+  path: python/postinfective-and-reactive-arthropathies-reiter---primary.py
+inputModule4:
+  class: File
+  path: python/other-postinfective-and-reactive-arthropathies---primary.py
+inputModule5:
+  class: File
+  path: python/postinfective-and-reactive-arthropathies-ankle---primary.py
+inputModule6:
+  class: File
+  path: python/postinfective-and-reactive-arthropathies-finger---primary.py
+inputModule7:
+  class: File
+  path: python/postinfective-and-reactive-arthropathies-joint---primary.py
+inputModule8:
+  class: File
+  path: python/arthropathies---primary.py
+inputModule9:
+  class: File
+  path: python/postinfective-and-reactive-arthropathies-acquired---primary.py
+inputModule10:
+  class: File
+  path: python/multiple-postinfective-and-reactive-arthropathies---primary.py
+inputModule11:
+  class: File
+  path: python/postdysenteric-postinfective-and-reactive-arthropathies---primary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
